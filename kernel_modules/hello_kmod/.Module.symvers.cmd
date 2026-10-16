@@ -1,0 +1,1 @@
+savedcmd_/home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/Module.symvers -n -T /home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/modules.order -i Module.symvers -e 

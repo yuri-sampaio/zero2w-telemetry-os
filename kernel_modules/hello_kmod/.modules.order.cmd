@@ -1,0 +1,1 @@
+savedcmd_/home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/modules.order := {   echo /home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/hello_kmod.o; :; } > /home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/modules.order

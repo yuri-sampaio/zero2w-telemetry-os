@@ -1,0 +1,1 @@
+savedcmd_/home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/hello_kmod.mod := printf '%s\n'   hello_kmod.o | awk '!x[$$0]++ { print("/home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/"$$0) }' > /home/yuri_sampaio/embarcados/zero2w-telemetry-os/kernel_modules/hello_kmod/hello_kmod.mod
